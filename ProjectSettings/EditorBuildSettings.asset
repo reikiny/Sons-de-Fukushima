@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Tela Inicial.unity
+    guid: 05a651db5841900438b928c8ad71df98
+  - enabled: 1
+    path: "Assets/Scenes/CutScene 1\xB0.unity"
+    guid: 013f04a31d04eeb408dc54805909d534
+  - enabled: 1
+    path: Assets/Scenes/1 andar.unity
+    guid: 81c098469b25587459b1662a53ef6784
+  - enabled: 1
+    path: Assets/Scenes/2 andar.unity
+    guid: cfddf5ff269df214abd43633ba4937a0
+  - enabled: 1
+    path: Assets/Scenes/3 Andar.unity
+    guid: a7856f5e3bd6709458885ee77844dfc0
+  - enabled: 1
+    path: Assets/Scenes/CutScene final.unity
+    guid: 91d0ed0e27c8f5d41b429a09ec372090
+  m_configObjects: {}

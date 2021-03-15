@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15f88d172c81e3240af86f9723217c77, type: 3}
+  m_Name: Fala_Partitura
+  m_EditorClassIdentifier: 
+  audioName: 
+  audio: {fileID: 8300000, guid: 45afbb51d93a0d242b6181b03701a545, type: 3}
+  subtitle: "Ajudar a compor foi demais, pena que n\xE3o conseguimos finalizar"
